@@ -7,7 +7,7 @@ adicional que no había en emitter, como: _events, _eventsCount y _maxListeners,
 encuentran encapsulados. Además de que posee un atributo llamado [Symbol(kCapture)].*/
 
 var config = require('./config');
-/*Insetamos la dependencia de config.*/
+/*Insertamos la dependencia de config.*/
 
 
 /*Modificamos y adpatamos el código de la práctica anterior.*/
